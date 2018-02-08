@@ -1,2 +1,2 @@
-# simple-game
-Example
+# Odoo api with python
+you can need here odoo installing in your local server after that you can run this programme... 
